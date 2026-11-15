@@ -1,0 +1,16 @@
+# Compilation
+*.o
+*.d
+bin/
+src/kover
+
+# Images produites par `kover draw` (sauf celle de la documentation)
+/*.svg
+!doc/scene.svg
+
+# Éditeurs et système
+*.swp
+.DS_Store
+
+# Journaux
+*.log
