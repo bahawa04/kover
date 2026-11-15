@@ -1,6 +1,6 @@
 # kover
 
-![CI](https://github.com/VOTRE-NOM/kover/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/bahawa04/kover/actions/workflows/ci.yml/badge.svg)
 
 `kover` est un outil en ligne de commande, écrit en C, qui lit la description
 d'une *scène* (des bâtiments, des maisons et des antennes de communication),
